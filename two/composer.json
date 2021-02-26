@@ -1,3 +1,7 @@
 {
-  "name": "multipackage/two"
+  "name": "acme/plugin-cache",
+  "description": "Cache plugin for the acme framework",
+  "require": {
+    "acme/framework": ">=1.0"
+  }
 }

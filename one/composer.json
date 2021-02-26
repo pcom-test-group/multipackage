@@ -1,3 +1,7 @@
 {
-  "name": "multipackage/one"
+  "name": "acme/plugin-logger",
+  "description": "Logger plugin for the acme framework",
+  "require": {
+    "acme/framework": ">=1.1"
+  }
 }

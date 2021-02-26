@@ -1,0 +1,7 @@
+{
+  "name": "acme/plugin-debug",
+  "description": "Debug plugin for the acme framework",
+  "require": {
+    "acme/framework": ">=1.2"
+  }
+}

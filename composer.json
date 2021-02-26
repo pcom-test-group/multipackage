@@ -3,6 +3,5 @@
   "description": "ACME CMS",
   "license": "MIT",
   "require": {
-    "acme/cms": ">=1.0"
   }
 }

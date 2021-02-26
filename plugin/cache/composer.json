@@ -3,6 +3,5 @@
   "description": "Cache plugin for the acme cms",
   "license": "MIT",
   "require": {
-    "acme/cms": ">=1.0"
   }
 }

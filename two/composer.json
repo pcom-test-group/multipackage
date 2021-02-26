@@ -1,6 +1,7 @@
 {
   "name": "acme/plugin-cache",
   "description": "Cache plugin for the acme framework",
+  "license": "MIT",
   "require": {
     "acme/framework": ">=1.0"
   }

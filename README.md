@@ -7,3 +7,4 @@ PHP >= 5.6
 Via Composer:
 
 $ composer require acme/cms
+

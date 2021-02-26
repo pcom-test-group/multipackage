@@ -1,6 +1,6 @@
 {
   "name": "acme/plugin-logger",
-  "description": "Logger plugin for the acme framework",
+  "description": "Logger plugin for the acme cms",
   "license": "MIT",
   "require": {
     "acme/framework": ">=1.1"

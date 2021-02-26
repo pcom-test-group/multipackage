@@ -1,8 +1,8 @@
 {
   "name": "acme/plugin-debug",
-  "description": "Debug plugin for the acme framework",
+  "description": "Debug plugin for the acme cms",
   "license": "MIT",
   "require": {
-    "acme/framework": ">=1.2"
+    "acme/cms": ">=1.2"
   }
 }

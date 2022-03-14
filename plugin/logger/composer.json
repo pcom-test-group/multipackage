@@ -3,5 +3,6 @@
   "description": "Logger plugin for the acme cms",
   "license": "MIT",
   "require": {
+    "psr/log": "^3.0"
   }
 }

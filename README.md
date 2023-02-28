@@ -1,7 +1,7 @@
 # Acme CMS
 
 ### Requirements
-PHP >= 5.6
+PHP >= 6
 
 ### Install
 Via Composer:
